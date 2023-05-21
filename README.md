@@ -1,3 +1,5 @@
-# clusteringsatelliteimages
+# Clustering satellite images of cities in Sub-Saharan Africa
 
-Python scripts to reproduce research described in my thesis.
+work in progress.
+
+Python scripts to reproduce research described in my PhD thesis.
